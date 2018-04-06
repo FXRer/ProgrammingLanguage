@@ -64,3 +64,6 @@
 [submodule "C++/StateMachine/hsm"]
 	path = C++/StateMachine/hsm
 	url = git@github.com:amaiorano/hsm.git
+[submodule "C++/StateMachine/simple-hsm"]
+	path = C++/StateMachine/simple-hsm
+	url = https://github.com/xiahouzuoxin/StateMachine
