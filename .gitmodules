@@ -52,3 +52,9 @@
 [submodule "C/Books/Sedgewick-algorithms-in-c-exercises-and-examples"]
 	path = C/Books/Sedgewick-algorithms-in-c-exercises-and-examples
 	url = git@github.com:caisah/Sedgewick-algorithms-in-c-exercises-and-examples.git
+[submodule "C++/OOP-DesignPatterns"]
+	path = C++/OOP-DesignPatterns
+	url = git@github.com:john-bai/DesignPatterns.git
+[submodule "C/Books/cii"]
+	path = C/Books/cii
+	url = git@github.com:drh/cii.git
