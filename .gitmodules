@@ -58,3 +58,9 @@
 [submodule "C/Books/cii"]
 	path = C/Books/cii
 	url = git@github.com:drh/cii.git
+[submodule "C++/StateMachine/tinyfsm"]
+	path = C++/StateMachine/tinyfsm
+	url = git@github.com:digint/tinyfsm.git
+[submodule "C++/StateMachine/hsm"]
+	path = C++/StateMachine/hsm
+	url = git@github.com:amaiorano/hsm.git
