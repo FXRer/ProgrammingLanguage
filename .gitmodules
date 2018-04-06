@@ -1,0 +1,54 @@
+[submodule "Go/go-hardware"]
+	path = Go/go-hardware
+	url = git@github.com:rakyll/go-hardware.git
+[submodule "Go/embd"]
+	path = Go/embd
+	url = git@github.com:kidoman/embd.git
+[submodule "Python/Python-Design-Patterns"]
+	path = Python/Python-Design-Patterns
+	url = git@github.com:buckyroberts/Python-Design-Patterns.git
+[submodule "Python/python-patterns"]
+	path = Python/python-patterns
+	url = git@github.com:faif/python-patterns.git
+[submodule "C++/Books/Mastering-Cpp-Programming"]
+	path = C++/Books/Mastering-Cpp-Programming
+	url = git@github.com:PacktPublishing/Mastering-Cpp-Programming.git
+[submodule "C++/Books/CppCoreGuidelines"]
+	path = C++/Books/CppCoreGuidelines
+	url = git@github.com:isocpp/CppCoreGuidelines.git
+[submodule "C++/Books/Advanced-C-Cxx-2017"]
+	path = C++/Books/Advanced-C-Cxx-2017
+	url = git@github.com:W4RH4WK/UIBK-703807-Advanced-C-CXX.git
+[submodule "C++/Books/design-patterns-cpp14"]
+	path = C++/Books/design-patterns-cpp14
+	url = git@github.com:makiolo/design-patterns-cpp14.git
+[submodule "C++/Books/awesome-modern-cpp"]
+	path = C++/Books/awesome-modern-cpp
+	url = git@github.com:rigtorp/awesome-modern-cpp.git
+[submodule "C++/Books/advanced-cpp"]
+	path = C++/Books/advanced-cpp
+	url = git@github.com:SofiaCPP/advanced-cpp.git
+[submodule "C++/Books/Mastering-CPP-Multithreading"]
+	path = C++/Books/Mastering-CPP-Multithreading
+	url = git@github.com:PacktPublishing/Mastering-CPP-Multithreading.git
+[submodule "C++/Books/Modern-Cxx-Design"]
+	path = C++/Books/Modern-Cxx-Design
+	url = git@github.com:inzombiak/Modern-C-Design.git
+[submodule "C++/Books/design-patterns-cpp"]
+	path = C++/Books/design-patterns-cpp
+	url = git@github.com:JakubVojvoda/design-patterns-cpp.git
+[submodule "C++/Books/cpp-design-patterns"]
+	path = C++/Books/cpp-design-patterns
+	url = git@github.com:sayden/cpp-design-patterns.git
+[submodule "C++/Books/thinking-in-cpp"]
+	path = C++/Books/thinking-in-cpp
+	url = git@github.com:heuristicus/thinking-in-cpp.git
+[submodule "C++/Books/tmplguide"]
+	path = C++/Books/tmplguide
+	url = git@github.com:Jeonghum/tmplguide.git
+[submodule "C++/Books/SafeCPlusPlus"]
+	path = C++/Books/SafeCPlusPlus
+	url = git@github.com:vladimir-kushnir/SafeCPlusPlus.git
+[submodule "C/Books/Sedgewick-algorithms-in-c-exercises-and-examples"]
+	path = C/Books/Sedgewick-algorithms-in-c-exercises-and-examples
+	url = git@github.com:caisah/Sedgewick-algorithms-in-c-exercises-and-examples.git
