@@ -67,3 +67,6 @@
 [submodule "C++/StateMachine/simple-hsm"]
 	path = C++/StateMachine/simple-hsm
 	url = https://github.com/xiahouzuoxin/StateMachine
+[submodule "C++/Books/Network-Programming-Project"]
+	path = C++/Books/Network-Programming-Project
+	url = git@github.com:GalProject/Network-Programming-Project.git
