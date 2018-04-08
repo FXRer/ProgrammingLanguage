@@ -76,3 +76,6 @@
 [submodule "C++/Demo/Cortex-M3/armconsole"]
 	path = C++/Demo/Cortex-M3/armconsole
 	url = git@github.com:fgervais/armconsole.git
+[submodule "C++/Demo/Cortex-M3/usbarm"]
+	path = C++/Demo/Cortex-M3/usbarm
+	url = git@github.com:fgervais/usbarm.git
