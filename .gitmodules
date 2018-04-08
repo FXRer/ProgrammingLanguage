@@ -70,3 +70,6 @@
 [submodule "C++/Books/Network-Programming-Project"]
 	path = C++/Books/Network-Programming-Project
 	url = git@github.com:GalProject/Network-Programming-Project.git
+[submodule "C++/Embedded/Cortex-M3/usbarm"]
+	path = C++/Embedded/Cortex-M3/usbarm
+	url = git@github.com:fgervais/usbarm.git
