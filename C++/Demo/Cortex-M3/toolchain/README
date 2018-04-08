@@ -1,60 +1,97 @@
-Build and install Binutils
+Building steps:
+
+PREREQUISITIES:
+	Ubuntu 16.04 32bits
+	sudo apt-get install gmpc-dev libmpc-dev
+
+1.Remove the current texinfo via apt-get (I'm not sure if this is required, but I did it just to be safe).
+    Download the texinfo source:
+    wget http://ftp.gnu.org/gnu/texinfo/texinfo-4.13.tar.gz
+
+    Extract the source files:
+    gzip -dc < texinfo-4.13.tar.gz | tar -xf -
+    cd texinfo-4.13
+
+    Configure, build and install:
+    ./configure
+    make
+    sudo make install
+
+2. Build and install Binutils
 
 tar jxf binutils-2.19.tar.bz2
+
 mkdir buildbinutils
 cd buildbinutils
-../binutils-2.19/configure
-–build=i686-pc-linux-gnu
-–host=i686-pc-linux-gnu
-–target=arm-eabi
-–enable-threads
-–disable-libmudflap
-–disable-libssp
-–disable-libgomp
-–disable-libstdcxx-pch
-–with-gnu-as
-–with-gnu-ld
-–enable-languages=c,c++
-–disable-shared
-–with-newlib
-–disable-nls
-–prefix=/usr
-–with-headers=yes
-make -j8
-make install
 
-Build and install GCC (with Newlib)
+../binutils-2.19/configure --prefix=/opt/xtools/cortex-m3 \
+--build=i686-pc-linux-gnu \
+--host=i686-pc-linux-gnu \
+--target=arm-eabi \
+--enable-threads \
+--disable-libmudflap \
+--disable-libssp \
+--disable-libgomp \
+--disable-libstdcxx-pch \
+--with-gnu-as \
+--with-gnu-ld \
+--enable-languages=c,c++ \
+--disable-shared \
+--with-newlib \
+--disable-nls \
+--with-headers=yes \
+--disable-werror
+
+make (-jN)
+(sudo) make install
+
+
+3. Build and install GCC (with Newlib)
 
 tar jxf gcc-core-4.3.3.tar.bz2
 tar jxf gcc-g++-4.3.3.tar.bz2
+
 tar zxf newlib-1.17.0.tar.gz
 mv newlib-1.17.0/newlib gcc-4.3.3
 rm -rf newlib-1.17.0
+
 mkdir gccbuild
 cd gccbuild
-CFLAGS=”$(CFLAGS) -Wl,-z,defs”
-../gcc-4.3.3/configure –target=arm-eabi
-–enable-languages=c,c++
-–enable-thumb
-–enable-interwork
-–enable-multilib
-–with-newlib
-–prefix=/usr
-–disable-libada
-–disable-libssp
 
-Build and install GDB
+#CFLAGS="$(CFLAGS) -Wl,-z,defs"
+CFLAGS="-fgnu89-inline"
+../gcc-4.3.3/configure --prefix=/opt/xtools/cortex-m3 \
+--target=arm-eabi \
+--enable-languages=c,c++ \
+--enable-thumb \
+--enable-interwork \
+--enable-multilib \
+--with-newlib \
+--disable-libada \
+--disable-libssp \
+--disable-werror
+
+make (-jN)
+(sudo) make install
+
+
+4. Build and install GDB
 
 tar jxf gdb-6.8
+
 mkdir buildgdb
 cd buildgdb
-../gdb-6.8/configure
-–target=arm-eabi
-–enable-languages=c,c++
-–enable-thumb
-–enable-interwork
-–enable-multilib
-–with-newlib
-–prefix=/usr
-–disable-libada
-–disable-libssp
+
+../gdb-6.8/configure --prefix=/opt/xtools/cortex-m3 \
+--target=arm-eabi \
+--enable-languages=c,c++ \
+--enable-thumb \
+--enable-interwork \
+--enable-multilib \
+--with-newlib \
+--disable-libada \
+--disable-libssp \
+--disable-werror
+
+make (-jN)
+(sudo) make install
