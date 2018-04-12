@@ -79,3 +79,9 @@
 [submodule "C++/Demo/Cortex-M3/usbarm"]
 	path = C++/Demo/Cortex-M3/usbarm
 	url = git@github.com:fgervais/usbarm.git
+[submodule "C++/Demo/Embedded/etl"]
+	path = C++/Demo/Embedded/etl
+	url = git@github.com:ETLCPP/etl.git
+[submodule "C++/Demo/Embedded/embxx"]
+	path = C++/Demo/Embedded/embxx
+	url = git@github.com:arobenko/embxx.git
