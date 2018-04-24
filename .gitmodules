@@ -1,87 +1,87 @@
 [submodule "Go/go-hardware"]
 	path = Go/go-hardware
-	url = git@github.com:rakyll/go-hardware.git
+	url = https://github.com/rakyll/go-hardware.git
 [submodule "Go/embd"]
 	path = Go/embd
-	url = git@github.com:kidoman/embd.git
+	url = https://github.com/kidoman/embd.git
 [submodule "Python/Python-Design-Patterns"]
 	path = Python/Python-Design-Patterns
-	url = git@github.com:buckyroberts/Python-Design-Patterns.git
+	url = https://github.com/buckyroberts/Python-Design-Patterns.git
 [submodule "Python/python-patterns"]
 	path = Python/python-patterns
-	url = git@github.com:faif/python-patterns.git
+	url = https://github.com/faif/python-patterns.git
 [submodule "C++/Books/Mastering-Cpp-Programming"]
 	path = C++/Books/Mastering-Cpp-Programming
-	url = git@github.com:PacktPublishing/Mastering-Cpp-Programming.git
+	url = https://github.com/PacktPublishing/Mastering-Cpp-Programming.git
 [submodule "C++/Books/CppCoreGuidelines"]
 	path = C++/Books/CppCoreGuidelines
-	url = git@github.com:isocpp/CppCoreGuidelines.git
+	url = https://github.com/isocpp/CppCoreGuidelines.git
 [submodule "C++/Books/Advanced-C-Cxx-2017"]
 	path = C++/Books/Advanced-C-Cxx-2017
-	url = git@github.com:W4RH4WK/UIBK-703807-Advanced-C-CXX.git
+	url = https://github.com/W4RH4WK/UIBK-703807-Advanced-C-CXX.git
 [submodule "C++/Books/design-patterns-cpp14"]
 	path = C++/Books/design-patterns-cpp14
-	url = git@github.com:makiolo/design-patterns-cpp14.git
+	url = https://github.com/makiolo/design-patterns-cpp14.git
 [submodule "C++/Books/awesome-modern-cpp"]
 	path = C++/Books/awesome-modern-cpp
-	url = git@github.com:rigtorp/awesome-modern-cpp.git
+	url = https://github.com/rigtorp/awesome-modern-cpp.git
 [submodule "C++/Books/advanced-cpp"]
 	path = C++/Books/advanced-cpp
-	url = git@github.com:SofiaCPP/advanced-cpp.git
+	url = https://github.com/SofiaCPP/advanced-cpp.git
 [submodule "C++/Books/Mastering-CPP-Multithreading"]
 	path = C++/Books/Mastering-CPP-Multithreading
-	url = git@github.com:PacktPublishing/Mastering-CPP-Multithreading.git
+	url = https://github.com/PacktPublishing/Mastering-CPP-Multithreading.git
 [submodule "C++/Books/Modern-Cxx-Design"]
 	path = C++/Books/Modern-Cxx-Design
-	url = git@github.com:inzombiak/Modern-C-Design.git
+	url = https://github.com/inzombiak/Modern-C-Design.git
 [submodule "C++/Books/design-patterns-cpp"]
 	path = C++/Books/design-patterns-cpp
-	url = git@github.com:JakubVojvoda/design-patterns-cpp.git
+	url = https://github.com/JakubVojvoda/design-patterns-cpp.git
 [submodule "C++/Books/cpp-design-patterns"]
 	path = C++/Books/cpp-design-patterns
-	url = git@github.com:sayden/cpp-design-patterns.git
+	url = https://github.com/sayden/cpp-design-patterns.git
 [submodule "C++/Books/thinking-in-cpp"]
 	path = C++/Books/thinking-in-cpp
-	url = git@github.com:heuristicus/thinking-in-cpp.git
+	url = https://github.com/heuristicus/thinking-in-cpp.git
 [submodule "C++/Books/tmplguide"]
 	path = C++/Books/tmplguide
-	url = git@github.com:Jeonghum/tmplguide.git
+	url = https://github.com/Jeonghum/tmplguide.git
 [submodule "C++/Books/SafeCPlusPlus"]
 	path = C++/Books/SafeCPlusPlus
-	url = git@github.com:vladimir-kushnir/SafeCPlusPlus.git
+	url = https://github.com/vladimir-kushnir/SafeCPlusPlus.git
 [submodule "C/Books/Sedgewick-algorithms-in-c-exercises-and-examples"]
 	path = C/Books/Sedgewick-algorithms-in-c-exercises-and-examples
-	url = git@github.com:caisah/Sedgewick-algorithms-in-c-exercises-and-examples.git
+	url = https://github.com/caisah/Sedgewick-algorithms-in-c-exercises-and-examples.git
 [submodule "C++/OOP-DesignPatterns"]
 	path = OOP/Patterns
-	url = git@github.com:john-bai/DesignPatterns.git
+	url = https://github.com/john-bai/DesignPatterns.git
 [submodule "C/Books/cii"]
 	path = C/Books/cii
-	url = git@github.com:drh/cii.git
+	url = https://github.com/drh/cii.git
 [submodule "C++/StateMachine/tinyfsm"]
 	path = C++/StateMachine/tinyfsm
-	url = git@github.com:digint/tinyfsm.git
+	url = https://github.com/digint/tinyfsm.git
 [submodule "C++/StateMachine/hsm"]
 	path = C++/StateMachine/hsm
-	url = git@github.com:amaiorano/hsm.git
+	url = https://github.com/amaiorano/hsm.git
 [submodule "C++/StateMachine/simple-hsm"]
 	path = C++/StateMachine/simple-hsm
 	url = https://github.com/xiahouzuoxin/StateMachine
 [submodule "C++/Books/Network-Programming-Project"]
 	path = C++/Books/Network-Programming-Project
-	url = git@github.com:GalProject/Network-Programming-Project.git
+	url = https://github.com/GalProject/Network-Programming-Project.git
 [submodule "C++/Embedded/Cortex-M3/usbarm"]
 	path = C++/Embedded/Cortex-M3/usbarm
-	url = git@github.com:fgervais/usbarm.git
+	url = https://github.com/fgervais/usbarm.git
 [submodule "C++/Demo/Cortex-M3/armconsole"]
 	path = C++/Demo/Cortex-M3/armconsole
-	url = git@github.com:fgervais/armconsole.git
+	url = https://github.com/fgervais/armconsole.git
 [submodule "C++/Demo/Cortex-M3/usbarm"]
 	path = C++/Demo/Cortex-M3/usbarm
-	url = git@github.com:fgervais/usbarm.git
+	url = https://github.com/fgervais/usbarm.git
 [submodule "C++/Demo/Embedded/etl"]
 	path = C++/Demo/Embedded/etl
-	url = git@github.com:ETLCPP/etl.git
+	url = https://github.com/ETLCPP/etl.git
 [submodule "C++/Demo/Embedded/embxx"]
 	path = C++/Demo/Embedded/embxx
-	url = git@github.com:arobenko/embxx.git
+	url = https://github.com/arobenko/embxx.git
