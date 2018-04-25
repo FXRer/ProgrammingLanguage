@@ -91,3 +91,6 @@
 [submodule "C++/Books/exploring-c-11"]
 	path = C++/Books/exploring-c-11
 	url = https://github.com/Apress/exploring-c-11.git
+[submodule "C++/Libraries/Asio"]
+	path = C++/Libraries/Asio
+	url = https://github.com/chriskohlhoff/asio.git
