@@ -85,3 +85,6 @@
 [submodule "C++/Demo/Embedded/embxx"]
 	path = C++/Demo/Embedded/embxx
 	url = https://github.com/arobenko/embxx.git
+[submodule "C++/Libraries/Poco"]
+	path = C++/Libraries/Poco
+	url = https://github.com/pocoproject/poco.git
