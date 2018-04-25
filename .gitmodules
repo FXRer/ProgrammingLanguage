@@ -88,3 +88,6 @@
 [submodule "C++/Libraries/Poco"]
 	path = C++/Libraries/Poco
 	url = https://github.com/pocoproject/poco.git
+[submodule "C++/Books/exploring-c-11"]
+	path = C++/Books/exploring-c-11
+	url = https://github.com/Apress/exploring-c-11.git
