@@ -94,3 +94,6 @@
 [submodule "C++/Libraries/Asio"]
 	path = C++/Libraries/Asio
 	url = https://github.com/chriskohlhoff/asio.git
+[submodule "C++/OOP/Observer/WeatherStation"]
+	path = C++/OOP/Observer/WeatherStation
+	url = https://github.com/gayashanbc/observer-pattern-cpp.git
