@@ -98,7 +98,7 @@
 	path = C++/OOP/Observer/WeatherStation
 	url = https://github.com/gayashanbc/observer-pattern-cpp.git
 [submodule "C++/OOP/Reactor-Proactor/cpp-reactor-pattern-example"]
-	path = C++/OOP/Reactor-Proactor/cpp-reactor-pattern-example
+	path = C++/OOP/Reactor-Proactor/Reactor
 	url = https://github.com/tomek2k4/cpp-reactor-pattern-example.git
 [submodule "C++/OOP/Reactor-Proactor/Proactor"]
 	path = C++/OOP/Reactor-Proactor/Proactor
