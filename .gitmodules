@@ -106,3 +106,6 @@
 [submodule "C++/OOP/Reactor-Proactor/Reactor-Proactor-Example"]
 	path = C++/OOP/Reactor-Proactor/Reactor-Proactor-Example
 	url = https://github.com/seanbollin/reactor-proactor-example.git
+[submodule "C++/Libraries/etl"]
+	path = C++/Libraries/etl
+	url = https://github.com/ETLCPP/etl.git
