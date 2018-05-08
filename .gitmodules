@@ -109,3 +109,6 @@
 [submodule "C++/Libraries/etl"]
 	path = C++/Libraries/etl
 	url = https://github.com/ETLCPP/etl.git
+[submodule "Rust/Books/Rust-Essentials-Second-Edition"]
+	path = Rust/Books/Rust-Essentials-Second-Edition
+	url = https://github.com/PacktPublishing/Rust-Essentials-Second-Edition.git
