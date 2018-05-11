@@ -112,3 +112,12 @@
 [submodule "Rust/Books/Rust-Essentials-Second-Edition"]
 	path = Rust/Books/Rust-Essentials-Second-Edition
 	url = https://github.com/PacktPublishing/Rust-Essentials-Second-Edition.git
+[submodule "Rust/Demo/zinc"]
+	path = Rust/Demo/zinc
+	url = https://github.com/hackndev/zinc.git
+[submodule "Rust/Demo/rust-rtos"]
+	path = Rust/Demo/rust-rtos
+	url = https://github.com/alexchandel/rust-rtos.git
+[submodule "Rust/Demo/freertos.rs"]
+	path = Rust/Demo/freertos.rs
+	url = https://github.com/hashmismatch/freertos.rs.git
