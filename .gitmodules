@@ -121,3 +121,15 @@
 [submodule "Rust/Demo/freertos.rs"]
 	path = Rust/Demo/freertos.rs
 	url = https://github.com/hashmismatch/freertos.rs.git
+[submodule "Rust/Demo/rust-drone"]
+	path = Rust/Demo/rust-drone
+	url = https://github.com/martindeegan/drone.git
+[submodule "Rust/Demo/rust-rpi/pigpio"]
+	path = Rust/Demo/rust-rpi/pigpio
+	url = https://github.com/martindeegan/rust_pigpio.git
+[submodule "Rust/Demo/rust-peripherals/ads1115"]
+	path = Rust/Demo/rust-peripherals/ads1115
+	url = https://github.com/martindeegan/rust-ads1115.git
+[submodule "Rust/Demo/rust-peripherals/pca9685"]
+	path = Rust/Demo/rust-peripherals/pca9685
+	url = https://github.com/martindeegan/rust-pca9685.git
