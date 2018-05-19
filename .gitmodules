@@ -133,3 +133,6 @@
 [submodule "Rust/Demo/rust-peripherals/pca9685"]
 	path = Rust/Demo/rust-peripherals/pca9685
 	url = https://github.com/martindeegan/rust-pca9685.git
+[submodule "C++/Books/awesome-cpp"]
+	path = C++/Books/awesome-cpp
+	url = https://github.com/fffaraz/awesome-cpp.git
