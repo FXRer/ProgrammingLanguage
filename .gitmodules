@@ -136,3 +136,6 @@
 [submodule "C++/Books/awesome-cpp"]
 	path = C++/Books/awesome-cpp
 	url = https://github.com/fffaraz/awesome-cpp.git
+[submodule "C++/Libraries/visioncpp"]
+	path = C++/Libraries/visioncpp
+	url = https://github.com/codeplaysoftware/visioncpp.git
