@@ -139,3 +139,9 @@
 [submodule "C++/Libraries/visioncpp"]
 	path = C++/Libraries/visioncpp
 	url = https://github.com/codeplaysoftware/visioncpp.git
+[submodule "C++/Demo/Embedded/jobxx"]
+	path = C++/Demo/Embedded/jobxx
+	url = https://github.com/seanmiddleditch/jobxx.git
+[submodule "C++/Demo/Embedded/massivethreads"]
+	path = C++/Demo/Embedded/massivethreads
+	url = https://github.com/massivethreads/massivethreads.git
