@@ -145,3 +145,12 @@
 [submodule "C++/Demo/Embedded/massivethreads"]
 	path = C++/Demo/Embedded/massivethreads
 	url = https://github.com/massivethreads/massivethreads.git
+[submodule "C++/Libraries/serial"]
+	path = C++/Libraries/serial
+	url = https://github.com/wjwwood/serial.git
+[submodule "C++/Libraries/formatxx"]
+	path = C++/Libraries/formatxx
+	url = https://github.com/seanmiddleditch/formatxx.git
+[submodule "C++/Libraries/serial_utils"]
+	path = C++/Libraries/serial_utils
+	url = https://github.com/wjwwood/serial_utils.git
