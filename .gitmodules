@@ -154,3 +154,9 @@
 [submodule "C++/Libraries/serial_utils"]
 	path = C++/Libraries/serial_utils
 	url = https://github.com/wjwwood/serial_utils.git
+[submodule "Javascript/stm32js"]
+	path = Javascript/stm32js
+	url = https://github.com/Catethysis/stm32js
+[submodule "Javascript/ejs"]
+	path = Javascript/ejs
+	url = https://github.com/mde/ejs.git
