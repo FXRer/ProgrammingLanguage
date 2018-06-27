@@ -205,3 +205,21 @@
 [submodule "Javascript/NodeJS/RPi/personal-assistant"]
 	path = Javascript/NodeJS/RPi/personal-assistant
 	url = https://github.com/augustogoncalves/personal-assistant.git
+[submodule "Javascript/ReactJS/Examples/react-countdown"]
+	path = Javascript/ReactJS/Examples/react-countdown
+	url = https://github.com/kristinbaumann/react-countdown.git
+[submodule "Javascript/ReactJS/Examples/React_Redux_todoApp"]
+	path = Javascript/ReactJS/Examples/React_Redux_todoApp
+	url = https://github.com/nunosoares27/React_Redux_todoApp.git
+[submodule "Javascript/ReactJS/Examples/beginners-guide-to-react-router"]
+	path = Javascript/ReactJS/Examples/beginners-guide-to-react-router
+	url = https://github.com/dabit3/beginners-guide-to-react-router.git
+[submodule "Javascript/ReactJS/Examples/react-pair"]
+	path = Javascript/ReactJS/Examples/react-pair
+	url = https://github.com/SophieDeBenedetto/react-pair.git
+[submodule "Javascript/ReactJS/Examples/react-remote-component-demo"]
+	path = Javascript/ReactJS/Examples/react-remote-component-demo
+	url = https://github.com/jamesmartin/react-remote-component-demo.git
+[submodule "Javascript/ReactJS/Examples/universal-redux-template"]
+	path = Javascript/ReactJS/Examples/universal-redux-template
+	url = https://github.com/mz026/universal-redux-template.git
