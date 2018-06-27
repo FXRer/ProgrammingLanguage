@@ -190,3 +190,18 @@
 [submodule "Javascript/NodeJS/ReactJS/Training/react-point"]
 	path = Javascript/NodeJS/ReactJS/Training/react-point
 	url = https://github.com/ReactTraining/react-point.git
+[submodule "Javascript/NodeJS/RPi/node-raspicam"]
+	path = Javascript/NodeJS/RPi/node-raspicam
+	url = https://github.com/troyth/node-raspicam.git
+[submodule "Javascript/NodeJS/RPi/rpi-backlight"]
+	path = Javascript/NodeJS/RPi/rpi-backlight
+	url = https://github.com/pimterry/rpi-backlight.git
+[submodule "Javascript/NodeJS/RPi/raspivid-stream"]
+	path = Javascript/NodeJS/RPi/raspivid-stream
+	url = https://github.com/pimterry/raspivid-stream.git
+[submodule "Javascript/NodeJS/RPi/voice-controlled-zumo"]
+	path = Javascript/NodeJS/RPi/voice-controlled-zumo
+	url = https://github.com/markwest1972/voice-controlled-zumo.git
+[submodule "Javascript/NodeJS/RPi/personal-assistant"]
+	path = Javascript/NodeJS/RPi/personal-assistant
+	url = https://github.com/augustogoncalves/personal-assistant.git
