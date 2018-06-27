@@ -223,3 +223,6 @@
 [submodule "Javascript/ReactJS/Examples/universal-redux-template"]
 	path = Javascript/ReactJS/Examples/universal-redux-template
 	url = https://github.com/mz026/universal-redux-template.git
+[submodule "Javascript/NodeJS/socketio-monitoring"]
+	path = Javascript/NodeJS/socketio-monitoring
+	url = https://github.com/avidas/socketio-monitoring.git
