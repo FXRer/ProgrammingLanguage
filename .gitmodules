@@ -160,3 +160,33 @@
 [submodule "Javascript/ejs"]
 	path = Javascript/ejs
 	url = https://github.com/mde/ejs.git
+[submodule "Javascript/opencv4nodejs"]
+	path = Javascript/NodeJS/opencv4nodejs
+	url = https://github.com/justadudewhohacks/opencv4nodejs.git
+[submodule "Javascript/NodeJS/face-detection-node-opencv"]
+	path = Javascript/NodeJS/face-detection-node-opencv
+	url = https://github.com/drejkim/face-detection-node-opencv.git
+[submodule "Javascript/NodeJS/ReactJS/Training/react-router"]
+	path = Javascript/NodeJS/ReactJS/Training/react-router
+	url = https://github.com/ReactTraining/react-router.git
+[submodule "Javascript/NodeJS/ReactJS/Training/react-workshop"]
+	path = Javascript/NodeJS/ReactJS/Training/react-workshop
+	url = https://github.com/ReactTraining/react-workshop.git
+[submodule "Javascript/NodeJS/ReactJS/Training/history"]
+	path = Javascript/NodeJS/ReactJS/Training/history
+	url = https://github.com/ReactTraining/history.git
+[submodule "Javascript/NodeJS/ReactJS/Training/react-broadcast"]
+	path = Javascript/NodeJS/ReactJS/Training/react-broadcast
+	url = https://github.com/ReactTraining/react-broadcast.git
+[submodule "Javascript/NodeJS/ReactJS/Training/react-media"]
+	path = Javascript/NodeJS/ReactJS/Training/react-media
+	url = https://github.com/ReactTraining/react-media.git
+[submodule "Javascript/NodeJS/ReactJS/Training/react-history"]
+	path = Javascript/NodeJS/ReactJS/Training/react-history
+	url = https://github.com/ReactTraining/react-history.git
+[submodule "Javascript/NodeJS/ReactJS/Training/react-stdio"]
+	path = Javascript/NodeJS/ReactJS/Training/react-stdio
+	url = https://github.com/ReactTraining/react-stdio.git
+[submodule "Javascript/NodeJS/ReactJS/Training/react-point"]
+	path = Javascript/NodeJS/ReactJS/Training/react-point
+	url = https://github.com/ReactTraining/react-point.git
