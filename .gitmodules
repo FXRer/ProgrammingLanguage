@@ -226,3 +226,6 @@
 [submodule "Javascript/NodeJS/socketio-monitoring"]
 	path = Javascript/NodeJS/socketio-monitoring
 	url = https://github.com/avidas/socketio-monitoring.git
+[submodule "Javascript/NodeJS/Framework/node-serialport"]
+	path = Javascript/NodeJS/Framework/node-serialport
+	url = https://github.com/node-serialport/node-serialport.git
