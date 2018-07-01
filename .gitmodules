@@ -229,3 +229,21 @@
 [submodule "Javascript/NodeJS/Framework/node-serialport"]
 	path = Javascript/NodeJS/Framework/node-serialport
 	url = https://github.com/node-serialport/node-serialport.git
+[submodule "Javascript/Books/JavaScript-by-Example"]
+	path = Javascript/Books/JavaScript-by-Example
+	url = https://github.com/PacktPublishing/JavaScript-by-Example.git
+[submodule "Javascript/Books/javascript-starter-course"]
+	path = Javascript/Books/javascript-starter-course
+	url = https://github.com/scotch-io/javascript-starter-course.git
+[submodule "Javascript/javascript-project-template"]
+	path = Javascript/javascript-project-template
+	url = https://github.com/Flexberry/javascript-project-template.git
+[submodule "Javascript/Books/practical-object-oriented-javascript"]
+	path = Javascript/Books/practical-object-oriented-javascript
+	url = https://github.com/devmynd/practical-object-oriented-javascript.git
+[submodule "Javascript/javascript-patterns"]
+	path = Javascript/javascript-patterns
+	url = https://github.com/shichuan/javascript-patterns.git
+[submodule "Javascript/javascript-by-example"]
+	path = Javascript/javascript-by-example
+	url = https://github.com/ericwindmill/javascript-by-example.git
