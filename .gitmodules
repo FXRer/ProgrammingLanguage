@@ -247,3 +247,6 @@
 [submodule "Javascript/javascript-by-example"]
 	path = Javascript/javascript-by-example
 	url = https://github.com/ericwindmill/javascript-by-example.git
+[submodule "Javascript/pi4j"]
+	path = Javascript/pi4j
+	url = https://github.com/Pi4J/pi4j.git
