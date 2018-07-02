@@ -250,3 +250,6 @@
 [submodule "Javascript/pi4j"]
 	path = Javascript/pi4j
 	url = https://github.com/Pi4J/pi4j.git
+[submodule "Javascript/quaggaJS"]
+	path = Javascript/quaggaJS
+	url = https://github.com/serratus/quaggaJS.git
