@@ -262,3 +262,9 @@
 [submodule "Javascript/controls.js"]
 	path = Javascript/controls.js
 	url = https://github.com/controlsjs/controls.js.git
+[submodule "Javascript/forever-monitor"]
+	path = Javascript/forever-monitor
+	url = https://github.com/foreverjs/forever-monitor.git
+[submodule "Javascript/forever"]
+	path = Javascript/forever
+	url = https://github.com/foreverjs/forever.git
