@@ -271,3 +271,6 @@
 [submodule "Javascript/NodeJS/RPi/pm2"]
 	path = Javascript/NodeJS/RPi/pm2
 	url = https://github.com/Unitech/pm2.git
+[submodule "Javascript/NodeJS/RPi/RPi-Contoller"]
+	path = Javascript/NodeJS/RPi/RPi-Contoller
+	url = https://github.com/Lorpotin/RPi-Contoller.git
