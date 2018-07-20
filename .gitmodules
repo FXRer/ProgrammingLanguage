@@ -268,3 +268,6 @@
 [submodule "Javascript/forever"]
 	path = Javascript/forever
 	url = https://github.com/foreverjs/forever.git
+[submodule "Javascript/NodeJS/RPi/pm2"]
+	path = Javascript/NodeJS/RPi/pm2
+	url = https://github.com/Unitech/pm2.git
