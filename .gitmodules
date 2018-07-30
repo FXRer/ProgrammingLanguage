@@ -274,3 +274,6 @@
 [submodule "Javascript/NodeJS/RPi/RPi-Contoller"]
 	path = Javascript/NodeJS/RPi/RPi-Contoller
 	url = https://github.com/Lorpotin/RPi-Contoller.git
+[submodule "Javascript/node-serialport"]
+	path = Javascript/node-serialport
+	url = https://github.com/node-serialport/node-serialport.git
