@@ -304,3 +304,6 @@
 [submodule "C++/Testing/unittest-cpp"]
 	path = C++/Testing/unittest-cpp
 	url = https://github.com/unittest-cpp/unittest-cpp.git
+[submodule "C++/Testing/cutter"]
+	path = C++/Testing/cutter
+	url = https://github.com/clear-code/cutter.git
