@@ -277,3 +277,30 @@
 [submodule "Javascript/node-serialport"]
 	path = Javascript/NodeJS/node-serialport
 	url = https://github.com/node-serialport/node-serialport.git
+[submodule "C++/Testing/FakeIt"]
+	path = C++/Testing/FakeIt
+	url = https://github.com/eranpeer/FakeIt.git
+[submodule "C++/Testing/check"]
+	path = C++/Testing/check
+	url = https://github.com/libcheck/check.git
+[submodule "C++/Testing/Criterion"]
+	path = C++/Testing/Criterion
+	url = https://github.com/Snaipe/Criterion.git
+[submodule "C++/Testing/Catch2"]
+	path = C++/Testing/Catch2
+	url = https://github.com/catchorg/Catch2.git
+[submodule "C++/Testing/cppcheck"]
+	path = C++/Testing/cppcheck
+	url = https://github.com/danmar/cppcheck.git
+[submodule "C++/Testing/cpputest"]
+	path = C++/Testing/cpputest
+	url = https://github.com/cpputest/cpputest.git
+[submodule "C++/Testing/cxxtest"]
+	path = C++/Testing/cxxtest
+	url = https://github.com/CxxTest/cxxtest.git
+[submodule "C++/Testing/CUTE"]
+	path = C++/Testing/CUTE
+	url = https://github.com/PeterSommerlad/CUTE.git
+[submodule "C++/Testing/unittest-cpp"]
+	path = C++/Testing/unittest-cpp
+	url = https://github.com/unittest-cpp/unittest-cpp.git
