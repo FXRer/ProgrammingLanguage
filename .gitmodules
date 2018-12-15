@@ -307,3 +307,12 @@
 [submodule "C++/Testing/cutter"]
 	path = C++/Testing/cutter
 	url = https://github.com/clear-code/cutter.git
+[submodule "C++/Books/SaferCPlusPlus"]
+	path = C++/Books/SaferCPlusPlus
+	url = https://github.com/duneroadrunner/SaferCPlusPlus
+[submodule "C/Libraries/c_code_style"]
+	path = C/Libraries/c_code_style
+	url = https://github.com/MaJerle/c_code_style
+[submodule "C++/Books/modern-cpp-features"]
+	path = C++/Books/modern-cpp-features
+	url = https://github.com/AnthonyCalandra/modern-cpp-features
