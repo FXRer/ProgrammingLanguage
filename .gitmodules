@@ -316,3 +316,6 @@
 [submodule "C++/Books/modern-cpp-features"]
 	path = C++/Books/modern-cpp-features
 	url = https://github.com/AnthonyCalandra/modern-cpp-features
+[submodule "Python/Libraries/circuits"]
+	path = Python/Libraries/circuits
+	url = https://github.com/circuits/circuits
