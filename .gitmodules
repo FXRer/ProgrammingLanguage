@@ -319,3 +319,6 @@
 [submodule "Python/Libraries/circuits"]
 	path = Python/Libraries/circuits
 	url = https://github.com/circuits/circuits
+[submodule "Python/Software-Architecture-with-Python"]
+	path = Python/Software-Architecture-with-Python
+	url = https://github.com/PacktPublishing/Software-Architecture-with-Python
